@@ -24,6 +24,6 @@ Follow these steps to run StudentHub on your local machine.
 git clone https://github.com/usesagarpandit-rgb/studenthub.git
 cd studenthub
 
-### 2. start
+### 2.start
 
 npm start
