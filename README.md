@@ -26,7 +26,4 @@ cd studenthub
 
 ### 2. start
 
-```bash
 npm start
-
-___
